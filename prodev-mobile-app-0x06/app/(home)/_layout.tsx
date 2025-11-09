@@ -1,5 +1,5 @@
 import { AntDesign, EvilIcons, Feather, FontAwesome, Ionicons } from "@expo/vector-icons";
-import "../../styles/global.css";
+
 import { Tabs } from "expo-router";
 
 const HomeRootLayout = () => {
